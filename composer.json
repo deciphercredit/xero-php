@@ -1,7 +1,7 @@
 {
-    "name": "calcinai/xero-php",
+    "name": "deciphercredit/xero-php",
     "type": "library",
-    "description": "A client implementation of the Xero API, with a cleaner OAuth interface and ORM-like abstraction.",
+    "description": "A fork of the client implementation of the Xero API, with a cleaner OAuth interface and ORM-like abstraction.",
     "homepage": "https://github.com/calcinai/xero-php",
     "license": "MIT",
 
